@@ -1,1 +1,1 @@
-print('Hello from merged version')
+print('Hello from merged version'))
